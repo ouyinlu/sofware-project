@@ -1,0 +1,9 @@
+﻿  main.cpp
+    正在创建库 D:\vs\project\sofware\fifthDemo\Release\fifthDemo.lib 和对象 D:\vs\project\sofware\fifthDemo\Release\fifthDemo.exp
+  正在生成代码
+  450 of 450 functions (100.0%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  fifthDemo.vcxproj -> D:\vs\project\sofware\fifthDemo\Release\fifthDemo.exe
+  fifthDemo.vcxproj -> D:\vs\project\sofware\fifthDemo\Release\fifthDemo.pdb (Full PDB)
